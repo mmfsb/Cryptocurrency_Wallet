@@ -31,8 +31,11 @@ Specifically, you will assume the perspective of a Fintech Finder customer in or
 
 * Review the transaction hash code associated with the validated blockchain transaction.
 
+## Gif of Streamlit App
 ![gif of streamlit](Starter-Code/Images/fintech_finder.gif)
 
+## Screenshot of the address, balance, and transaction (TX) count.
 ![Account transaction](Starter-Code/Images/account_transaction.png)
 
+## Screenshot of Transactions
 ![show transaction](Starter-Code/Images/shows_transaction.png)
