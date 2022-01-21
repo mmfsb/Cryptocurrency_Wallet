@@ -30,3 +30,9 @@ Specifically, you will assume the perspective of a Fintech Finder customer in or
 * Digitally sign a transaction that pays a Fintech Finder candidate, and send this transaction to the Ganache blockchain.
 
 * Review the transaction hash code associated with the validated blockchain transaction.
+
+![gif of streamlit](Starter-Code/Images/fintech_finder.gif)
+
+![Account transaction](Starter-Code/Images/account_transaction.png)
+
+![show transaction](Starter-Code/Images/show_transaction.png)
