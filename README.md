@@ -35,4 +35,4 @@ Specifically, you will assume the perspective of a Fintech Finder customer in or
 
 ![Account transaction](Starter-Code/Images/account_transaction.png)
 
-![show transaction](Starter-Code/Images/show_transaction.png)
+![show transaction](Starter-Code/Images/shows_transaction.png)
